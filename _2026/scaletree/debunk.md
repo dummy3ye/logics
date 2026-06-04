@@ -23,6 +23,7 @@ This is definitely a tropical palm species
 and this is more likely a trumpet or guava tree. And the sky says it all. So count one: tropical island locked.
 
 <b>Now let's analyze the elephant in the room. </b>
+
 <img src="./assets/maintree.png" height="400" alt="Alt text"><br>
 
 ## Analyzing the Tree
